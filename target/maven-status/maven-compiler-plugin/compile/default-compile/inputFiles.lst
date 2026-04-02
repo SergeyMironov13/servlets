@@ -1,6 +1,7 @@
-/Users/sermironov/serlvets/servlets/src/main/java/ru/netology/controller/PostController.java
-/Users/sermironov/serlvets/servlets/src/main/java/ru/netology/exception/NotFoundException.java
-/Users/sermironov/serlvets/servlets/src/main/java/ru/netology/model/Post.java
-/Users/sermironov/serlvets/servlets/src/main/java/ru/netology/repository/PostRepository.java
-/Users/sermironov/serlvets/servlets/src/main/java/ru/netology/service/PostService.java
-/Users/sermironov/serlvets/servlets/src/main/java/ru/netology/servlet/MainServlet.java
+/Users/sermironov/Migration/src/main/java/ru/netology/MainServlet.java
+/Users/sermironov/Migration/src/main/java/ru/netology/controller/GlobalExceptionHandler.java
+/Users/sermironov/Migration/src/main/java/ru/netology/controller/PostController.java
+/Users/sermironov/Migration/src/main/java/ru/netology/exception/NotFoundException.java
+/Users/sermironov/Migration/src/main/java/ru/netology/model/Post.java
+/Users/sermironov/Migration/src/main/java/ru/netology/repository/PostRepository.java
+/Users/sermironov/Migration/src/main/java/ru/netology/service/PostService.java
